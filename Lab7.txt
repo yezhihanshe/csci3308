@@ -1,0 +1,18 @@
+snippet1.
+(1). Name of the class is over shortly
+(2). Lack self explanatory
+(3). It has # in front of the print
+(3). It should use else statement in the function 
+
+snippet2.
+(1). it should use else stetement in the function
+(2)start = time.time() this statement should in front of the statement open file
+
+snippet3.
+(1). it should use ele statement
+(2). hardcoded
+(3). it is complicated to put so many conditions in the for loop
+
+
+
+haha1307@colorado.edu
